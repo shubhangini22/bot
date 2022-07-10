@@ -1,3 +1,4 @@
 # bot
-This is a voting eligibility bot made using Ai-playground<br>
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/88343647/178131039-7d90cf1f-af7c-4eda-9442-cf0518d58def.png">
+<b>Voting eligibility bot made using Ai-playground</b><br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/88343647/178131165-ce4e6218-13cd-4a01-ae71-45f7d11c30ba.png">
+
